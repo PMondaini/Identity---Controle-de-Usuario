@@ -41,3 +41,8 @@ C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity-
 C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.pdb
 C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.genruntimeconfig.cache
 C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\obj\Debug\net6.0\ref\UsuariosApi.dll
+C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
