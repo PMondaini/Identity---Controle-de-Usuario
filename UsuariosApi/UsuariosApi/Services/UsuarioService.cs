@@ -20,7 +20,7 @@ namespace UsuariosApi.Services
             _tokenService = tokenService;
         }
 
-        public async Task Cadastrar (CreateUsuarioDTO dto)
+        public async Task Cadastrar(CreateUsuarioDTO dto)
         {
             Usuario usuario = _mapper.Map<Usuario>(dto);
 

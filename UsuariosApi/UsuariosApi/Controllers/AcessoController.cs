@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace UsuariosApi.Controllers
 {
-    [Controller]
+    [ApiController]
     [Route("[Controller]")]
 
     public class AcessoController : ControllerBase

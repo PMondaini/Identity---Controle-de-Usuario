@@ -5,14 +5,14 @@ using UsuariosApi.Services;
 namespace UsuariosApi.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("[Controller]")]
     public class UsuarioController : ControllerBase
     {
         private UsuarioService _usuarioService;
 
-        public UsuarioController(UsuarioService usuarioService)
+        public UsuarioController(UsuarioService cadastroService)
         {
-            _usuarioService = usuarioService;
+            _usuarioService = cadastroService;
         }
 
         [HttpPost("cadastro")]
@@ -24,7 +24,7 @@ namespace UsuariosApi.Controllers
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login(LoginUsuarioDto dto)
+        public async Task<IActionResult> LoginAasync(LoginUsuarioDto dto)
         {
             var token = await _usuarioService.Login(dto);
             return Ok(token);

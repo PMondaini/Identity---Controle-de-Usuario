@@ -46,3 +46,6 @@ C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity-
 C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrick\Desktop\Estudo\Alura\C#\API\3 - Controle de Usuários\Identity---Controle-de-Usuario\UsuariosApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
