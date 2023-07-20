@@ -17,8 +17,8 @@ using UsuariosApi.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-var connectionString = builder.Configuration.GetConnectionString
-            ("UsuarioConnection");
+var connectionString = builder.Configuration
+                ["ConnectionString:UsuarioConnection"];
 
 builder.Services.AddDbContext<UsuarioDbContext>
     ( opts =>
@@ -53,7 +53,8 @@ builder.Services.AddAuthentication(options =>
     {
         ValidateIssuerSigningKey = true,
         IssuerSigningKey = new SymmetricSecurityKey
-                (Encoding.UTF8.GetBytes("9ASHDA98H9ah9ha9H9A89n0f")),
+                (Encoding.UTF8.GetBytes(builder.Configuration
+                ["SymmetricSecurityKey"])),
         ValidateAudience = false,
         ValidateIssuer = false,
         ClockSkew = TimeSpan.Zero
